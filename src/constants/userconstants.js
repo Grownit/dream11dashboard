@@ -58,7 +58,9 @@ function geturl() {
     return "https://dream11-api.insenc.in";
 
   }
-  return "https://dream11-api.insenc.in";
+  //return "https://dream11-api.insenc.in";
+  //return "http://localhost:8000"
+  return "https://gclteam.duckdns.org"
 }
 
 function getfrontendurl() {
